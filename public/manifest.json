@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Night Night 晚安公主殿下!",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": ["scripting", "tabs"],
+  "host_permissions": ["<all_urls>"],
+  "icons": {
+    "16": "icon16.png",
+    "32": "icon32.png",
+    "48": "icon32.png",
+    "64": "icon64.png",
+    "128": "icon128.png"
+  }
+}
