@@ -1,4 +1,4 @@
-# 🌜 Night Night 晚安公主殿下!
+# ![主畫面](public/icon128.png) Night Night 晚安公主殿下!
 
 這是一款極簡 Chrome 暗黑模式切換擴充功能，支援一鍵切換任意網頁的暗黑/亮色主題，並以現代 app 風格滑軌開關呈現。
 
